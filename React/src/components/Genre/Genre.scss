@@ -1,0 +1,25 @@
+.btn-genre button, .active button{
+  font-weight: 600;
+  width: 110px;
+  border-radius: 7px;
+  padding: 4px 0;
+  font-style: italic;
+  background-color: #777778;
+  font-size: 14px;
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+.btn-genre button:hover, .active button {
+  background-color: #000;
+  border: 1px solid #fff;
+}
+
+.light-genre span{
+  color: #000;
+}
+
+.btn-genre .light-genre:hover, .active .light-genre{
+  background-color: #fff;
+  border: 1px solid #000;
+}

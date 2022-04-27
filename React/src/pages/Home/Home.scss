@@ -1,0 +1,22 @@
+.main{
+  padding: 10px;
+  width: 1240px;
+  margin: 0 auto;
+
+  .container{
+    display: flex;
+    background-color: #fff;
+
+    .side-bar{
+      width: 100vw;
+
+      h2{
+        text-align: center;
+      }
+    }
+  }
+}
+
+.light-wrap-movies{
+  background-color: #000;
+}
